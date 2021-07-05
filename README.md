@@ -15,7 +15,7 @@
   </a>
 
 </div>
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKeonwooChoi%2FEZ.ai&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <h1 align='middle'><a href='https://botezai.com/'>🏠https://botezai.com/</a></h1>
 <h3 align='middle'> 쉽게 만드는 챗봇빌더 플랫폼 EZAI</h3>
                  

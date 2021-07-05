@@ -15,7 +15,7 @@
   </a>
 
 </div>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKeonwooChoi%2FEZ.ai&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <h1 align='middle'><a href='https://botezai.com/'>🏠https://botezai.com/</a></h1>
 <h3 align='middle'> 쉽게 만드는 챗봇빌더 플랫폼 EZAI</h3>
                  
@@ -140,6 +140,7 @@ _아래 참여자 이름을 클릭하면, 팀원 개인 github 페이지로 이�
   </tr>
 </table>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKeonwooChoi%2FEZ.ai&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 시스템 아키텍처
 <p align='middle'><a href='./docs/system-architecture.png'><img src='./documents/README_image/system-architecture.png' /></a></p>
 
